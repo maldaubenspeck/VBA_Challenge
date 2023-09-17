@@ -4,7 +4,7 @@ Sources:
   Bootcamp class assignments
   Peers - Tye Elliot, Jonathan Gutierrez-Lozano, and Kacy Samples
   ChatGPT
-  Slack Overflow
+  Stack Overflow
   Tutors
 
 
